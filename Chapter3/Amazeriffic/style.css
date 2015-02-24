@@ -29,6 +29,22 @@ header nav {
 main {
   background: white;
   overflow: auto;
+
+}
+
+main h2 {
+  padding: 10px;
+  color: red;
+}
+
+main h3 {
+  padding: 10px;
+  color: blue;
+}
+
+main p {
+  padding: 10px;
+  color: green;
 }
 
 main .left {
